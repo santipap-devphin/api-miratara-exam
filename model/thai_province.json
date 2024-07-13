@@ -1,0 +1,48 @@
+[
+      {
+        "id": 1,
+        "name_th": "กรุงเทพมหานคร",
+        "name_en": "Bangkok",
+        "geography_id": 2,
+        "created_at": "9/8/2019 03:33:09",
+        "updated_at": "16/5/2022 06:31:03.648279"
+      
+      },
+      {
+        "id": 11,
+        "name_th": "ชลบุรี",
+        "name_en": "Chon Buri",
+        "geography_id": 5,
+        "created_at": "9/8/2019 03:33:09",
+        "updated_at": "16/5/2022 06:31:03.648279"
+        
+      },
+      {
+        "id": 66,
+        "name_th": "ภูเก็ต",
+        "name_en": "Phuket",
+        "geography_id": 6,
+        "created_at": "9/8/2019 03:33:09",
+        "updated_at": "16/5/2022 06:31:03.648279"
+       
+      },
+      {
+        "id": 38,
+        "name_th": "เชียงใหม่",
+        "name_en": "Chiang Mai",
+        "geography_id": 1,
+        "created_at": "9/8/2019 03:33:09",
+        "updated_at": "16/5/2022 06:31:03.648279"
+      
+      },
+      {
+        "id": 62,
+        "name_th": "ประจวบคีรีขันธ์",
+        "name_en": "Prachuap Khiri Khan",
+        "geography_id": 4,
+        "created_at": "9/8/2019 03:33:09",
+        "updated_at": "16/5/2022 06:31:03.648279"
+        
+      }
+]
+  

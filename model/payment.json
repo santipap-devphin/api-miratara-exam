@@ -1,0 +1,26 @@
+[
+    {
+        "paymentID":1,
+        "paymentName":"ชำระกับทางโรงแรม",
+        "paymentDetail":[
+            {
+                "id":1 ,
+                "name":"จ่ายเมื่อเข้าพัก กับทางโรงแรมหน้า เคาน์เตอร์ ได้เลย"
+            }
+        ],
+        "paymentStatus":true
+     },
+     {
+        "paymentID":2,
+        "paymentName":"โอนเงิน",
+        "paymentDetail":[
+            {
+                "id":1 , 
+                "bankno":"06-9998-5551",
+                "bankname":"ธนาคาร กสิกรไทย" ,
+                "qrcode":true
+            }
+        ],
+        "paymentStatus":true
+     }
+]

@@ -1,0 +1,525 @@
+[
+    {
+        "id":1,
+        "rhotelID":1,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"799"
+            },
+            {
+                "id":2 , 
+                "price":"1500"
+            },
+            {
+                "id":3 , 
+                "price":"3999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":2,
+        "rhotelID":2,
+        "typeID":[1,2],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"599"
+            },
+            {
+                "id":2 , 
+                "price":"1299"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":3,
+        "rhotelID":3,
+        "typeID":[1,2],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"500"
+            },
+            {
+                "id":2 , 
+                "price":"999"
+            }
+        ],
+        "status":true
+    }, {
+        "id":4,
+        "rhotelID":4,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"799"
+            },
+            {
+                "id":2 , 
+                "price":"1799"
+            },
+            {
+                "id":3 , 
+                "price":"2399"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":5,
+        "rhotelID":5,
+        "typeID":[1,2],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"1299"
+            },
+            {
+                "id":2 , 
+                "price":"5999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":6,
+        "rhotelID":6,
+        "typeID":[1],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":7,
+        "rhotelID":7,
+        "typeID":[1],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"1299"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":8,
+        "rhotelID":8,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"499"
+            },
+            {
+                "id":2 , 
+                "price":"1499"
+            },
+            {
+                "id":3 , 
+                "price":"2999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":9,
+        "rhotelID":9,
+        "typeID":[1,2],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"799"
+            },
+            {
+                "id":2 , 
+                "price":"1199"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":10,
+        "rhotelID":10,
+        "typeID":[1],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"599"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":11,
+        "rhotelID":11,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"899"
+            },
+            {
+                "id":2 , 
+                "price":"2123"
+            },
+            {
+                "id":3 , 
+                "price":"3599"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":12,
+        "rhotelID":12,
+        "typeID":[1],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"699"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":13,
+        "rhotelID":13,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"899"
+            },
+            {
+                "id":2 , 
+                "price":"1499"
+            },
+            {
+                "id":3 , 
+                "price":"1999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":14,
+        "rhotelID":14,
+        "typeID":[1,2],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"1099"
+            },
+            {
+                "id":2 , 
+                "price":"2500"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":15,
+        "rhotelID":15,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"999"
+            },
+            {
+                "id":2 , 
+                "price":"1699"
+            },
+            {
+                "id":3 , 
+                "price":"2399"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":16,
+        "rhotelID":16,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"655"
+            },
+            {
+                "id":2 , 
+                "price":"1399"
+            },
+            {
+                "id":3 , 
+                "price":"1799"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":17,
+        "rhotelID":17,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"719"
+            },
+            {
+                "id":2 , 
+                "price":"1599"
+            },
+            {
+                "id":3 , 
+                "price":"2199"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":18,
+        "rhotelID":18,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"612"
+            },
+            {
+                "id":2 , 
+                "price":"1500"
+            },
+            {
+                "id":3 , 
+                "price":"1999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":19,
+        "rhotelID":19,
+        "typeID":[1,2],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"1200"
+            },
+            {
+                "id":2 , 
+                "price":"2000"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":20,
+        "rhotelID":20,
+        "typeID":[2,3],
+        "roomDetail":[
+            {
+                "id":2 , 
+                "price":"700"
+            },
+            {
+                "id":3 , 
+                "price":"2400"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":21,
+        "rhotelID":21,
+        "typeID":[2,3],
+        "roomDetail":[
+            {
+                "id":2 , 
+                "price":"2139"
+            },
+            {
+                "id":3 , 
+                "price":"5999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":22,
+        "rhotelID":22,
+        "typeID":[2,3],
+        "roomDetail":[
+            {
+                "id":2 , 
+                "price":"799"
+            },
+            {
+                "id":3 , 
+                "price":"2999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":23,
+        "rhotelID":23,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"715"
+            },
+            {
+                "id":2 , 
+                "price":"1499"
+            },
+            {
+                "id":3 , 
+                "price":"1899"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":24,
+        "rhotelID":24,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"599"
+            },
+            {
+                "id":2 , 
+                "price":"999"
+            },
+            {
+                "id":3 , 
+                "price":"1299"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":25,
+        "rhotelID":25,
+        "typeID":[2,3],
+        "roomDetail":[
+            {
+                "id":2 , 
+                "price":"912"
+            },
+            {
+                "id":3 , 
+                "price":"1642"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":26,
+        "rhotelID":26,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"1458"
+            },
+            {
+                "id":2 , 
+                "price":"2715"
+            },
+            {
+                "id":3 , 
+                "price":"3999"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":27,
+        "rhotelID":27,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"599"
+            },
+            {
+                "id":2 , 
+                "price":"999"
+            },
+            {
+                "id":3 , 
+                "price":"1399"
+            }
+            
+        ],
+        "status":true
+    },
+    {
+        "id":28,
+        "rhotelID":28,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"588"
+            },
+            {
+                "id":2 , 
+                "price":"1999"
+            }, {
+                "id":3 , 
+                "price":"4122"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":29,
+        "rhotelID":29,
+        "typeID":[1,2,3],
+        "roomDetail":[
+            {
+                "id":1 , 
+                "price":"1125"
+            },
+            {
+                "id":2 , 
+                "price":"1895"
+            },
+            {
+                "id":3 , 
+                "price":"2135"
+            }
+        ],
+        "status":true
+    },
+    {
+        "id":30,
+        "rhotelID":30,
+        "typeID":[2,3],
+        "roomDetail":[
+            {
+                "id":2 , 
+                "price":"1258"
+            },
+            {
+                "id":3 , 
+                "price":"3569"
+            }
+        ],
+        "status":true
+    }
+]
